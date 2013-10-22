@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4ce8563a3917316eda16ea8be46eee69$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="run.png" width="480" height="960">
+    <sprite n="walkRight00" x="0" y="0" w="160" h="160"/>
+    <sprite n="walkRight01" x="160" y="0" w="160" h="160"/>
+    <sprite n="walkRight02" x="320" y="0" w="160" h="160"/>
+    <sprite n="walkRight03" x="0" y="160" w="160" h="160"/>
+    <sprite n="walkRight04" x="160" y="160" w="160" h="160"/>
+    <sprite n="walkRight05" x="320" y="160" w="160" h="160"/>
+    <sprite n="walkRight06" x="0" y="320" w="160" h="160"/>
+    <sprite n="walkRight07" x="160" y="320" w="160" h="160"/>
+    <sprite n="walkRight08" x="320" y="320" w="160" h="160"/>
+    <sprite n="walkLeft00" x="0" y="480" w="160" h="160"/>
+    <sprite n="walkLeft01" x="160" y="480" w="160" h="160"/>
+    <sprite n="walkLeft02" x="320" y="480" w="160" h="160"/>
+    <sprite n="walkLeft03" x="0" y="640" w="160" h="160"/>
+    <sprite n="walkLeft04" x="160" y="640" w="160" h="160"/>
+    <sprite n="walkLeft05" x="320" y="640" w="160" h="160"/>
+    <sprite n="walkLeft06" x="0" y="800" w="160" h="160"/>
+    <sprite n="walkLeft07" x="160" y="800" w="160" h="160"/>
+    <sprite n="walkLeft08" x="320" y="800" w="160" h="160"/>
+</TextureAtlas>

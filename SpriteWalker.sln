@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteWalker", "SpriteWalker\SpriteWalker.csproj", "{10820A3E-F8B8-4CE4-861F-E5DDD9B21149}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7552CEC2-08EF-427C-B8EF-45DA13A844F6}"
+	ProjectSection(SolutionItems) = preProject
+		run.png = run.png
+		run.xml = run.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10820A3E-F8B8-4CE4-861F-E5DDD9B21149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10820A3E-F8B8-4CE4-861F-E5DDD9B21149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10820A3E-F8B8-4CE4-861F-E5DDD9B21149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10820A3E-F8B8-4CE4-861F-E5DDD9B21149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SpriteWalker\SpriteWalker.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 120
+		$1.NoTabsAfterNonTabs = True
+		$1.RemoveTrailingWhitespace = True
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = null
+		$4.scope = text/x-cgsrc
+	EndGlobalSection
+EndGlobal
